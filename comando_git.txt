@@ -1,0 +1,23 @@
+
+
+git add  -A   ##para agregaral stageinarea   si quieres agregar solo un archi vo  se debe de poner el nombre del archivo o carpea
+
+git commit -am  guarda commit
+
+git log para  ver codigo hash
+
+copias el codigo hash
+
+con Q se quita el log
+
+
+
+git checkout "se pega el hash" esto es para cambiar de tiempo
+
+
+git push ##para cargar el archivo
+
+
+git origin master  muestra que el archivo esta actualizado
+
+git commit leon 
